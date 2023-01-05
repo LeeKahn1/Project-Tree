@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672596982 source:d:\lee\doc\0_telkomuniversity\semester 3\praktikum cpp\cpp\tp mod 15\tp mod 15\tree.cpp
+	"tree.h"
+
+1672596982 d:\lee\doc\0_telkomuniversity\semester 3\praktikum cpp\cpp\tp mod 15\tp mod 15\tree.h
+	<iostream>
+
+1672597095 source:d:\lee\doc\0_telkomuniversity\semester 3\praktikum cpp\cpp\tp mod 15\tp mod 15\main.cpp
+	"tree.h"
+
